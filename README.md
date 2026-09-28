@@ -1,39 +1,26 @@
-h1 align="center">Hi, I'm Saketh 👋</h1> <p align="center"> B.Tech AI &amp; ML student · builder of AI-focused projects · code and chaos behind the event </p> <p align="center"> <a href="https://YOUR-PORTFOLIO-URL"><img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a> <a href="https://YOUR-RESUME-LINK"><img src="https://img.shields.io/badge/Resume-D22128?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"></a> <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn"></a> <a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a> </p>
 💫 About Me
 
-I'm a B.Tech student specializing in Artificial Intelligence and Machine Learning. I like turning ideas into working software, from computer-vision and document-verification tools to health-screening models, and I learn best by building real projects.
+I'm a B.Tech student specializing in Artificial Intelligence and Machine Learning, passionate about technology, problem-solving, and continuous learning. I enjoy developing my skills in Python, C, Data Structures, and AI/ML while working on practical projects that strengthen my understanding of real-world applications.
 
-Outside code, I enjoy photography and event coordination. I like being involved in both the code and the chaos behind an event.
+Alongside academics, I'm interested in creative problem-solving, event coordination, teamwork, and taking initiative in collaborative environments. I'm focused on building a strong technical foundation, gaining hands-on experience, and continuously challenging myself to grow both personally and professionally.
 
-🔭 Currently working on: strengthening my coding skills through real projects 🤝 Looking to collaborate on: tech projects, creative ideas & college events 🌱 Currently learning: Python, C, DSA, AI/ML & GitHub 💬 Ask me about: tech, photography, event handling, coding & new ideas
+🔭 I'm currently working on — Strengthening my coding skills through real projects
+🤝 I'm looking to collaborate on — Tech projects, creative ideas & college events
+🌱 I'm currently learning — Python, C, DSA, AI/ML & GitHub
+💬 Ask me about — Tech, photography, event handling, coding & new ideas
+⚡ Fun fact — I like being involved in both the code and the chaos behind an event
+🌐 Socials & Links
+<p align="left"> <a href="https://YOUR-PORTFOLIO-URL"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a> <a href="https://YOUR-RESUME-URL"><img src="https://img.shields.io/badge/Resume-0F9D58?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume"/></a> <a href="https://linkedin.com/in/YOUR-LINKEDIN-ID"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="https://instagram.com/sakethh_17"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a> <a href="https://x.com/Saketh_appu21"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a> <a href="mailto:sakethsarma21@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a> </p>
+💻 Tech Stack
 
-🚀 Featured Projects
-Project	What it does	Link
-Digital Lost & Found	AI-powered lost-and-found with multimodal matching and ownership verification	Repo
-ShelterSense AI	Thermal-comfort shelter design tool	Repo
-VERIDOC AI	Fake identity and document fraud detection	Repo
-Multi-condition Health Screening	Non-invasive AI screening (final year project)	Repo
-🛠️ Tech Stack
-<p> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> </p>
+Show Image Show Image Show Image Show Image Show Image Show Image Show Image Show Image Show Image Show Image Show Image
+
 📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.shion.dev/api?username=saketh21-18&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub stats" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com/?user=saketh21-18&theme=dark&hide_border=false" alt="GitHub streak" /> </p> <p align="center"> <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=saketh21-18&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top languages" /> </p>
-<p align="center"> <a href="https://visitcount.itsvg.in"><img src="https://komarev.com/ghpvc/?username=saketh21-18&icon=0&color=0" alt="Profile views"></a> </p> <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->h1 align="center">Hi, I'm Saketh 👋</h1> <p align="center"> B.Tech AI &amp; ML student · builder of AI-focused projects · code and chaos behind the event </p> <p align="center"> <a href="https://YOUR-PORTFOLIO-URL"><img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a> <a href="https://YOUR-RESUME-LINK"><img src="https://img.shields.io/badge/Resume-D22128?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"></a> <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn"></a> <a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a> </p>
-💫 About Me
+<p align="left"> <img src="https://github-readme-stats.shion.dev/api?username=saketh21-18&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/> </p> <p align="left"> <img src="https://streak-stats.demolab.com/?user=saketh21-18&theme=dark&hide_border=false" alt="GitHub Streak"/> </p> <p align="left"> <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=saketh21-18&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/> </p>
+🏆 GitHub Trophies
 
-I'm a B.Tech student specializing in Artificial Intelligence and Machine Learning. I like turning ideas into working software, from computer-vision and document-verification tools to health-screening models, and I learn best by building real projects.
+Show Image
 
-Outside code, I enjoy photography and event coordination. I like being involved in both the code and the chaos behind an event.
+Visitor count
 
-🔭 Currently working on: strengthening my coding skills through real projects 🤝 Looking to collaborate on: tech projects, creative ideas & college events 🌱 Currently learning: Python, C, DSA, AI/ML & GitHub 💬 Ask me about: tech, photography, event handling, coding & new ideas
-
-🚀 Featured Projects
-Project	What it does	Link
-Digital Lost & Found	AI-powered lost-and-found with multimodal matching and ownership verification	Repo
-ShelterSense AI	Thermal-comfort shelter design tool	Repo
-VERIDOC AI	Fake identity and document fraud detection	Repo
-Multi-condition Health Screening	Non-invasive AI screening (final year project)	Repo
-🛠️ Tech Stack
-<p> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> </p>
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.shion.dev/api?username=saketh21-18&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub stats" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com/?user=saketh21-18&theme=dark&hide_border=false" alt="GitHub streak" /> </p> <p align="center"> <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=saketh21-18&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top languages" /> </p>
-<p align="center"> <a href="https://visitcount.itsvg.in"><img src="https://komarev.com/ghpvc/?username=saketh21-18&icon=0&color=0" alt="Profile views"></a> </p> <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
